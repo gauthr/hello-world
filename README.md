@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+In accordance to the needs of this exercise, some text is being written here.
+
+Anything is possible.
